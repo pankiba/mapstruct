@@ -1,2 +1,1 @@
 # mapstruct
-Happy Learning !!
